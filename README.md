@@ -13,8 +13,9 @@ Vamos conversar? Me chame no [LinkedIn](https://www.linkedin.com/in/eric-velasco
 
 - 💬 Me pergunte sobre qualquer coisa sobre meus projetos!
 
-- 📫 Contato:
-  - [LinkedIn](https://www.linkedin.com/in/eric-velasco-de-paula-mendes/)
+
+#### Você é o visitante número: 
+![Visitor Count](https://profile-counter.glitch.me/Eric-Mendes/count.svg)   [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1200px-Linkedin_icon.svg.png" width=40 align="right">](https://www.linkedin.com/in/eric-velasco-de-paula-mendes/)
 
 <!--
 **Eric-Mendes/Eric-Mendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
