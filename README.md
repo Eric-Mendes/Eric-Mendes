@@ -1,4 +1,4 @@
-### Oi 👋
+### Bem-vindo! 👋
 
 - 🔭 Programo desde 2015 no ensino Técnico de Informática, e decidi seguir na área ao escolher minha graduação em Ciência da Computação.
 Na faculdade vi como a área é ampla, e após participar em alguns hackathons me apaixonei pela área de dados.
