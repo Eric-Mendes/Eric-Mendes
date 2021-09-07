@@ -1,33 +1,19 @@
-### Bem-vindo! 👋
+<h1> Eric Velasco de Paula Mendes </h1>
+  <p> Hi! I'm a <strong>test driven developer</strong> interested in <strong>data science</strong> and <strong>software engineering</strong>. </p>
+  
+<h2> My Education </h2>
+  <p> I'm an undergrad in <strong>Computer Science</strong> and a certified <strong>IT Technician</strong>, so I've been programming for quite a while now. I have a broad range of skills from all this time coding. </p>
+  <div style="display: row">
+    <img src="https://www.unicamp.br/unicamp/sites/default/files/styles/large/public/Logo_Unicamp__0.jpg?itok=sO9EjTTS" alt="Undergraduate studies in Universidade Estadual de Campinas" width=200/>
+    <img src="https://www.etecarmine.com.br/wp-content/uploads/2016/01/logo-topo.png" alt="IT Technician studies in Etec Carmine Biagio Tundisi" width=320 align="right"/>
+  </div>
+<h2> Things I can do (to name a few)</h2>
 
-- 🔭 Programo desde 2015 no ensino Técnico de Informática, e decidi seguir na área ao escolher minha graduação em Ciência da Computação.
-Na faculdade vi como a área é ampla, e após participar em alguns hackathons me apaixonei pela área de dados.
-Fiz alguns projetos pessoais dos quais me orgulho muito, mas sigo atrás de mais desafios para crescer ainda mais na área de data science.
-Vamos conversar? Me chame no [LinkedIn](https://www.linkedin.com/in/eric-velasco-de-paula-mendes/) ou interaja com meus posts no [Medium](https://ericvelasco.medium.com/ "Abrir meu perfil no Medium").
-
-- 🌱 Estou aprendendo análise de dados para ter uma base sólida para poder seguir em meus estudos sobre data science e futuramente estar estudando aprendizado de máquina.
-
-- 👯 Busco colaborar com análise de dados em projetos de data science.
-
-- 🤔 Preciso de ajuda em aprender como tirar bons insights de análises.
-
-- 💬 Me pergunte sobre qualquer coisa sobre meus projetos!
+- I can make simple <strong>html</strong> pages and consume <strong>API</strong>s; 
+- I can make analyses for a dataset using <strong>pandas</strong> and <strong>matplotlib</strong>;
+- I can build <strong>data pipelines</strong> using <strong>Apache Airflow</strong>;
+- I can <strong>query relational database</strong>s using <strong>SQL</strong>;
 
 
-#### Você é o visitante número: 
+#### You are visitor number: 
 ![Visitor Count](https://profile-counter.glitch.me/Eric-Mendes/count.svg)   [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1200px-Linkedin_icon.svg.png" width=40 align="right">](https://www.linkedin.com/in/eric-velasco-de-paula-mendes/)
-
-<!--
-**Eric-Mendes/Eric-Mendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
