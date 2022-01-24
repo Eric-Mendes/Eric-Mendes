@@ -1,4 +1,7 @@
-<h1> Eric Velasco de Paula Mendes </h1>
+<h1> Eric Velasco de Paula Mendes </h1> 
+
+![astronomer-certification-dag-authoring-for-apache-airflow](https://user-images.githubusercontent.com/42689328/150772934-0d241e5d-449d-46b5-9d82-a90bfba41f31.png)
+
   <p> Hi! I'm a <strong>test driven developer</strong> interested in <strong>data science</strong> and <strong>software engineering</strong>. </p>
   
 <h2> My Education </h2>
@@ -11,7 +14,7 @@
 
 - I can make simple <strong>html</strong> pages and consume <strong>API</strong>s; 
 - I can make analyses for a dataset using <strong>pandas</strong> and <strong>matplotlib</strong>;
-- I can build <strong>data pipelines</strong> using <strong>Apache Airflow</strong>;
+- I can build <strong>data pipelines</strong> using <strong>Apache Airflow</strong> (I am certified, by the way);
 - I can <strong>query relational database</strong>s using <strong>SQL</strong>;
 
 
