@@ -1,22 +1,30 @@
-<h1> Eric Velasco de Paula Mendes </h1> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1DB954&height=120&section=header"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=32&pause=1000&color=FFFFFF&center=true&width=500&height=100&lines=Hello!;My+name+is+Eric+Mendes.;I'm+a+Data+Engineer." alt="Typing SVG" /></a>
 
-![astronomer-certification-dag-authoring-for-apache-airflow](https://user-images.githubusercontent.com/42689328/150772934-0d241e5d-449d-46b5-9d82-a90bfba41f31.png)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Eric-Mendes&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=1DB954&text_color=FFFFFF&bg_color=0d1117" alt="Eric Mendes github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Mendes&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
+</div>
 
-  <p> Hi! I'm a <strong>test driven developer</strong> interested in <strong>data science</strong> and <strong>software engineering</strong>. </p>
-  
-<h2> My Education </h2>
-  <p> I'm an undergrad in <strong>Computer Science</strong> and a certified <strong>IT Technician</strong>, so I've been programming for quite a while now. I have a broad range of skills from all this time coding. </p>
-  <div style="display: row">
-    <img src="https://www.unicamp.br/unicamp/sites/default/files/styles/large/public/Logo_Unicamp__0.jpg?itok=sO9EjTTS" alt="Undergraduate studies in Universidade Estadual de Campinas" width=200/>
-    <img src="https://www.etecarmine.com.br/wp-content/uploads/2016/01/logo-topo.png" alt="IT Technician studies in Etec Carmine Biagio Tundisi" width=320 align="right"/>
-  </div>
-<h2> Things I can do (to name a few)</h2>
+<div align="center"> 
+  <a href = "mailto:ericvelasco.2000@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/eric-v-p-mendes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+</div>
 
-- I can make simple <strong>html</strong> pages and consume <strong>API</strong>s; 
-- I can make analyses for a dataset using <strong>pandas</strong> and <strong>matplotlib</strong>;
-- I can build <strong>data pipelines</strong> using <strong>Apache Airflow</strong> (I am certified, by the way);
-- I can <strong>query relational database</strong>s using <strong>SQL</strong>;
+ ### Main skills:
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
+![Apache Airflow](https://img.shields.io/badge/-Apache_Airflow-0D1117?style=for-the-badge&logo=apacheairflow&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&logoColor=purple&labelColor=0D1117)&nbsp; 
 
+### Studying in this moment:
+![C](https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;
+![C++](https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-#### You are visitor number: 
-![Visitor Count](https://profile-counter.glitch.me/Eric-Mendes/count.svg)   [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1200px-Linkedin_icon.svg.png" width=40 align="right">](https://www.linkedin.com/in/eric-velasco-de-paula-mendes/)
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Eric-Mendes}/count.svg" /></p> 
+<br>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1DB954&height=120&section=footer"/>
